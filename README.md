@@ -16,7 +16,7 @@ If you seek a visionary leader to drive technical excellence, fuel innovation, a
 
 - **Email:** [pranjalab@gmail.com](mailto:pranjalab@gmail.com)
 - **Mobile:** +91 908 786 3216
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- **LinkedIn:** [PranjalBhaskare](www.linkedin.com/in/pranjalbhaskare)
 
 ---
 
