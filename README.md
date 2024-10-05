@@ -1,23 +1,28 @@
+
 # Hi there, I'm Pranjal! 👋
 
-As a **Co-Founder, VP of Engineering, and Data Scientist**, I merge technology, data, and business strategy to create innovative solutions. I excel in leading teams, developing complex systems, and leveraging data-driven insights for strategic decision-making.
+*Turning caffeine into code and data into decisions since forever.* ☕️
 
-Throughout my career, I've shaped successful ventures, transforming ideas into reality through close collaboration with stakeholders. With an entrepreneurial mindset and expertise in engineering and data science, I navigate challenges to build scalable and impactful products.
+As a **Co-Founder**, **VP of Engineering**, and **Data Scientist**, I blend technology, data, and business strategy like the perfect cup of coffee.
 
-As a **VP of Engineering**, I lead the development of cutting-edge technologies and optimize processes for operational efficiency. My strong leadership and technical acumen inspire teams to deliver exceptional results.
+- **Leader by Day, Data Whisperer by Night**: I lead awesome teams to build complex systems and make data-driven decisions (occasionally using Jedi mind tricks).
 
-With a foundation in mathematics and expertise in **Deep Learning** and **Computer Vision**, I push boundaries to tackle complex challenges and make a significant impact.
+- **LLMs, ViT, and Vision Wizardry**: Currently diving deep into **Large Language Models (LLMs)**, **Vision Transformers (ViT)**, and **ViLT**, working on cutting-edge vision use cases at my company.
 
-Passionate about data-driven decision-making, I help organizations leverage data for growth and operational excellence. I thrive at the intersection of technology, data science, and business, always striving for meaningful impact.
+- **Startup Captain**: Steering my startup, [Neophyte](https://neophyte.ai/), to bring our innovative products—**Sentinel**, **Disha**, and **Neometry**—into the spotlight.
 
-If you seek a visionary leader to drive technical excellence, fuel innovation, and transform your organization through data-driven insights, let's connect and explore collaborations. Let's unlock new possibilities and achieve remarkable success in today's data-driven world.
+- **Math Enthusiast**: With a foundation in mathematics, I tackle **Deep Learning** and **Computer Vision** challenges—because who doesn't love a good algorithm before breakfast?
+
+- **Innovation Junkie**: Thriving at the intersection of tech and business, always pushing boundaries and looking for the next big thing (hoverboards, anyone?).
+
+**Let's team up and turn some wild ideas into reality!**
 
 ## 📫 **Contact Me**
 
 - **Email:** [pranjalab@gmail.com](mailto:pranjalab@gmail.com)
 - **Mobile:** +91 908 786 3216
-- **LinkedIn:** [PranjalBhaskare](www.linkedin.com/in/pranjalbhaskare)
+- **LinkedIn:** [Pranjal Bhaskare](https://www.linkedin.com/in/pranjalbhaskare)
 
 ---
 
-*Feel free to reach out for collaborations or discussions on technology, data science, and business strategy.*
+*P.S. If you bring coffee and donuts to the meeting, we'll get along just fine.* 🍩☕️
