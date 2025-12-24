@@ -1,28 +1,20 @@
+Hi, I’m Pranjal 👋
 
-# Hi there, I'm Pranjal! 👋
+I build secure, scalable systems at the intersection of engineering, data, and product.
 
-*Turning caffeine into code and data into decisions since forever.* ☕️
+Currently working as a Co-Founder & VP of Engineering, with hands-on experience in Computer Vision, Deep Learning, and Data Science. I enjoy turning complex problems into practical, production-ready solutions.
 
-As a **Co-Founder**, **VP of Engineering**, and **Data Scientist**, I blend technology, data, and business strategy like the perfect cup of coffee.
+What I work on:
+	•	🔐 Secure systems, infrastructure & developer tools
+	•	👁️ Computer Vision, Vision Transformers (ViT), ViLT
+	•	🤖 Large Language Models (LLMs) & applied AI
+	•	📊 Data-driven systems & ML pipelines
+	•	🚀 Building products at Neophyte￼ — Sentinel, Disha & Neometry
 
-- **Leader by Day, Data Whisperer by Night**: I lead awesome teams to build complex systems and make data-driven decisions (occasionally using Jedi mind tricks).
+I recently started ENC, an open-source project focused on encrypted project execution and IP protection, built from real production needs.
 
-- **LLMs, ViT, and Vision Wizardry**: Currently diving deep into **Large Language Models (LLMs)**, **Vision Transformers (ViT)**, and **ViLT**, working on cutting-edge vision use cases at my company.
+I enjoy collaborating, reviewing systems from a security perspective, and building things that actually ship.
 
-- **Startup Captain**: Steering my startup, [Neophyte](https://neophyte.ai/), to bring our innovative products—**Sentinel**, **Disha**, and **Neometry**—into the spotlight.
-
-- **Math Enthusiast**: With a foundation in mathematics, I tackle **Deep Learning** and **Computer Vision** challenges—because who doesn't love a good algorithm before breakfast?
-
-- **Innovation Junkie**: Thriving at the intersection of tech and business, always pushing boundaries and looking for the next big thing (hoverboards, anyone?).
-
-**Let's team up and turn some wild ideas into reality!**
-
-## 📫 **Contact Me**
-
-- **Email:** [pranjalab@gmail.com](mailto:pranjalab@gmail.com)
-- **Mobile:** +91 908 786 3216
-- **LinkedIn:** [Pranjal Bhaskare](https://www.linkedin.com/in/pranjalbhaskare)
-
----
-
-*P.S. If you bring coffee and donuts to the meeting, we'll get along just fine.* 🍩☕️
+📫 Contact
+	•	📧 Email: pranjalab@gmail.com
+	•	🔗 LinkedIn: Pranjal Bhaskare￼
